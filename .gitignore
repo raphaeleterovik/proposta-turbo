@@ -12,3 +12,14 @@ dist/
 # Pastas mencionadas no contexto
 components/
 model/
+
+# Pastas de dependências (Node.js)
+node_modules/
+
+# Arquivos de build ou temporários
+dist/
+output.css
+
+# Exclui arquivos de sistema do macOS ou Windows
+.DS_Store
+Thumbs.db
