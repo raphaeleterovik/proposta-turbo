@@ -1,0 +1,14 @@
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
+# Dependências e Builds
+node_modules/
+dist/
+
+# Variáveis de ambiente
+.env.local
+
+# Pastas mencionadas no contexto
+components/
+model/
